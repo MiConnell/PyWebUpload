@@ -5,9 +5,13 @@ This reads from a spreadsheet that is either selected from the built-in file pic
 
 Currently set up for SQL Server, but credentials/relevant libraries can be edited to work with any other relational database.
 
+This is currently not installable, and it will have to be cloned and edited directly in the script.
+The plan is to make this an actual library that can be installed.
+
 ## Needed Script Edits
 
 ### Credentials
+Add server/database/user/password
 
 ### Spreadsheet Columns
 
